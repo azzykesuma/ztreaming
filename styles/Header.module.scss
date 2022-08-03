@@ -1,0 +1,19 @@
+.main {
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    padding : 10px;
+
+    .inner__main {
+        display: flex;
+        align-items: center;
+        margin-right: auto;
+        gap : 10px;
+    }
+    
+    .logo__main {
+        font-size: 1.2em;
+        cursor: pointer;
+    } 
+
+}
